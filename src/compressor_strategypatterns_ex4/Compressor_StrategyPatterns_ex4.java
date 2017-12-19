@@ -12,6 +12,7 @@ public class Compressor_StrategyPatterns_ex4 {
         filecom.compressFile("Compress");
         
    //sxoliazw
+   jadfiajofgjo
     }
     
 }
