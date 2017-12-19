@@ -10,8 +10,4 @@ public class Compressor_StrategyPatterns_ex4 {
         Compessor compressor=(Compessor) new RarCompressor();
         FileCompressor filecom=new FileCompressor(compressor);
         filecom.compressFile("Compress");
-        
-   //sxoliazw
-   
-    
-}
+    }
